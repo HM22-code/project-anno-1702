@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357348719"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FuC:\Users\Megaport\Documents\dossier scolaire V2\Algo\Projet Algo\Projet\Final\Projet Anno 1702 AUGEY MONTANDON MOREL YAR\Projet Amélioré\&quot; &quot;-FUC:\Users\Megaport\Documents\dossier scolaire V2\Algo\Projet Algo\Projet\Final\Projet Anno 1702 AUGEY MONTANDON MOREL YAR\Projet Amélioré\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Megaport\Documents\dossier scolaire V2\Algo\Projet Algo\Projet\Final\Projet Anno 1702 AUGEY MONTANDON MOREL YAR\Projet Amélioré\&quot; &quot;-oC:\Users\Megaport\Documents\dossier scolaire V2\Algo\Projet Algo\Projet\Final\Projet Anno 1702 AUGEY MONTANDON MOREL YAR\Projet Amélioré\prog_principal.exe&quot; prog_principal.lpr"/>
+</CONFIG>
